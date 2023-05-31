@@ -2,7 +2,7 @@
 
 **`Independant Programmer (Fullstack Dev)`**
 
-I'm an independant developer based in Florida working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics but I'll get involved in pretty much anything.
+I'm an independant developer working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development.
 
 --
 ### 🧰 Languages and Tools
