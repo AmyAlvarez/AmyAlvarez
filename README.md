@@ -1,8 +1,8 @@
 ### Amy :)
 
-**`Independant Programmer (Fullstack Dev)`**
+**`Independant Programmer`**
 
-I'm an independant developer working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development.
+I'm a developer working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development.
 
 
 ### Languages and Tools
