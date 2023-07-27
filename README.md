@@ -1,8 +1,8 @@
 ### Amy 
 
-**`Independant Programmer`**
+**`Computer Engineering & Applied Mathematics Student`**
 
-I'm a developer working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development.
+I am a computer engineering student working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
 
 
 ### Languages and Tools
