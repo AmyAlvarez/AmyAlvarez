@@ -1,6 +1,6 @@
 ### Amy 
 
-**`Computer Engineering & Applied Mathematics Student`**
+**`Computer Engineering Student`**
 
 I am a computer engineering student working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
 
