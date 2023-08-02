@@ -1,8 +1,6 @@
 ### Amy 
 
-**`Computer Engineering Student`**
-
-I am a computer engineering student working on a diverse array of projects! My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
+Ethusiastic computer engineering student working on automating the your mundane tasks. 3 years of practicle expierence in C++, C, and Python. My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
 
 
 ### Languages and Tools
