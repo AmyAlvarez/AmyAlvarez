@@ -1,9 +1,9 @@
-### Amy 
+### <h1 align="center">Hello! I'm Amy</h1>
 
-Ethusiastic computer engineering student working on automating the more 'mundane' tasks. 3 years of practicle expierence in C++, C, and Python. My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
+Ethusiastic computer engineering student working on automating the more 'mundane' tasks. 3 years of practicle expierence in C++, C and Python. My heart lies in machine-learning, automation, and robotics. However, that doesn't stop me from contributting and engaging in all sorts of software development. 
 
 
-### Languages and Tools
+### <h2 align="center">Languages and Tools</h2>
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
