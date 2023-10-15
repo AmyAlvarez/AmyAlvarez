@@ -1,6 +1,6 @@
 ### <h1 align="center">Hello! I'm Amy</h1>
 
-Ethusiastic computer engineering student working on automating the more 'mundane' tasks. 4 years of practical experience in C++, C and Python. My heart lies in machine-learning, automation and robotics. However, that doesn't stop me from contributing and engaging in all sorts of software development. Don't hesitate to contribute! 
+Ethusiastic computer engineering student working on automating the more 'mundane' tasks. I hold 4 years of practical experience in C++ and Python. My heart lies in automation and robotics. However, that doesn't stop me from contributing and engaging in all sorts of software development. Don't hesitate to contribute! :)
 
 
 ### <h2 align="center">Languages and Tools</h2>
